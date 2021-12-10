@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  
+  body{
+    background-color: blueviolet
+  
+  
+  }
+  
+  h1{
+    color: brown
+  
+  }
+  div{
+    border: 10px solid brown;
+  
+  }
